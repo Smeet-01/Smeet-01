@@ -1,5 +1,5 @@
 - Hey! I am Smeet! Welcome to my page.
-- I’m interested in learning more about Data Analytics and Visualization
+- I’m interested in learning more about Data Analysis and Visualization
 - I’m currently learning Python, for the most part, while dabbling in other languages bit by bit (or should I say, git by git. Hah!)
 - You can reach me through my email:- almeida.smeet.01@gmail.com
 
